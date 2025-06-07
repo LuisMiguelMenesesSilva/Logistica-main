@@ -23,5 +23,4 @@ nombre : Luis Miguel Meneses.
 
 ##### Nota: para realizar las operaciones de gestion POST,PUT,DELETE es necesario contar con ROLE_ADMIN y para las operaciones tipo GET es necesario el ROLE_USER o ROLE_ADMIN
 
-#### Diagrama E-R
-![Diagrama ER](https://github.com/LuisMiguelMenesesSilva/Logistica-main/blob/master/src/main/resources/files/Logistica.png)
+
